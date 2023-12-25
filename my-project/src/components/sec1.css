@@ -1,0 +1,34 @@
+section.first {
+    margin: 120px 0;
+  }
+  nav{
+      position: fixed;
+      top: 0;
+      width: 100%;
+  }
+  .leftsection {
+    width: 22%;
+    font-size: 1.5rem;
+    margin-top: 150px;
+  }
+  .btn-shop{
+  background-color: rgb(12, 12, 61);
+  color: white;
+  border-radius: 10%;
+  padding: 3px;
+  font-size: 15px;
+  }
+  .rightsection {
+    width: 30%;
+    margin-left: 0px;
+    margin-right: 50px;
+  }
+  
+  img {
+    margin-top: 100px;
+  }
+  
+  .Purple {
+    color: rgb(247, 247, 250);
+  }
+  
